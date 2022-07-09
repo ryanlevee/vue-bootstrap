@@ -1,4 +1,4 @@
-# Anagram Hunt
+# Vue Game: Anagram Hunt
 
 ## Project setup
 ```
