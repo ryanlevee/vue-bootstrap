@@ -1,6 +1,8 @@
 # Vue Game: Anagram Hunt
 
 ## Project setup
+
+Open terminal in games\anagram-hunt\vue_bootstrap-anagram_hunt_game
 ```
 npm install
 ```
