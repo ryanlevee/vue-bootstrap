@@ -1,4 +1,4 @@
-# mathificent
+# Anagram Hunt
 
 ## Project setup
 ```
