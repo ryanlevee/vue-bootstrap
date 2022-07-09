@@ -1,4 +1,4 @@
-# mathificent
+# Vue Game: Anagram Hunt
 
 ## Project setup
 ```
